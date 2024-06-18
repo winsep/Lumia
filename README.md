@@ -12,6 +12,7 @@
 ![example](./images/home6.png)
 ![example](./images/home7.png)
 ![example](./images/home8.png)
+![example](./images/info.png)
 ![example](./images/contact.png)
 ![example](./images/gallery.png)
 ![example](./images/login.png)
